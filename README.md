@@ -29,12 +29,6 @@ I am a dedicated **Data Science** student at **Universitas Negeri Surabaya (UNES
 
 ---
 
-### 📊 GitHub Stats
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad4lif&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad4lif&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/muhammad4lif](https://www.linkedin.com/in/muhammad4lif/)
 - **Email:** [m.alif31maret@gmail.com](mailto:m.alif31maret@gmail.com)
